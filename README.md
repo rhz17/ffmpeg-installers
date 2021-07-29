@@ -3,7 +3,11 @@ This is an installation script with ffmpeg with several extra libs, including Ne
 
 ## Who is responsible for this?
 - Victor Machado (rhz17) [shell]
-- Stéphane Lepin (palakis) [ndi lib]
+- Stéphane Lepin (palakis) [NDI lib]
 - immstudios [ffmpeg fork]
+
+## Infos
+* **ffmpeg-libvpx-ndi.sh** - Contains NDI and uses an ffmpeg fork (unofficial)
+* **ffmpeg-libvpx.sh** - Does not contain NDI but uses the official ffmpeg build
 
 Have fun
